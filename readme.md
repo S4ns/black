@@ -1,5 +1,5 @@
 # Installation
-```powershell
+```
 # clone the repo
 $ git clone https://github.com/S4ns/black.git
 
